@@ -38,11 +38,6 @@
       <change afterPath="$PROJECT_DIR$/../normaltodolist/src/components/containers/FilterLink.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../normaltodolist/src/components/containers/VisibleTodoList.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../normaltodolist/src/components/tryingForms.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/actions/tracks.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/filterTracks.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/playlists.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/tracks.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../todoooooolist/src/components/TodoApp/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../todoooooolist/src/components/TodoForm/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../todoooooolist/src/components/TodoHeader/index.js" afterDir="false" />
@@ -66,6 +61,8 @@
       <change beforePath="$PROJECT_DIR$/../new-todo-list/src/components/list/todo-list/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../new-todo-list/src/components/list/todo-list/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../new-todo-list/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../new-todo-list/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../redux-basic/public/custon-ico.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../swapi/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../swapi/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../todolist/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../todolist/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/package.json" afterDir="false" />
@@ -99,8 +96,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="36" column="68" selection-start-line="36" selection-start-column="68" selection-end-line="36" selection-end-column="68" />
+            <state relative-caret-position="-541">
+              <caret line="38" column="18" lean-forward="true" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -171,7 +168,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -241,6 +238,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="C:/Program Files/nodejs/node.exe" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -288,12 +286,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571728720276</updated>
-      <workItem from="1571728722886" duration="9356000" />
+      <workItem from="1571728722886" duration="10427000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9356000" />
+    <option name="totallyTimeSpent" value="10427000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -373,8 +371,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="36" column="68" selection-start-line="36" selection-start-column="68" selection-end-line="36" selection-end-column="68" />
+        <state relative-caret-position="-541">
+          <caret line="38" column="18" lean-forward="true" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
